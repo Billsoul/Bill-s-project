@@ -21,7 +21,7 @@
             android:layout_marginLeft="30dp">
 
             <Button
-                android:text="不是我 是隔壁"
+                android:text="選我"
                 android:layout_width="164dp"
                 android:layout_height="wrap_content"
                 android:id="@+id/button1"
@@ -29,7 +29,7 @@
                 style="@android:style/Widget.DeviceDefault.Button.Inset" />
 
             <Button
-                android:text="真的不是我"
+                android:text="選我"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/button2"
@@ -37,7 +37,7 @@
                 style="@android:style/Widget.DeviceDefault.Button.Inset" />
 
             <Button
-                android:text="那是誰"
+                android:text="選我"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/button3"
@@ -45,7 +45,7 @@
                 style="@android:style/Widget.DeviceDefault.Button.Inset"/>
 
             <Button
-                android:text="那問左上那個"
+                android:text="選我"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/button4"
@@ -61,7 +61,7 @@
             android:layout_marginRight="30dp">
 
             <Button
-                android:text="是樓下"
+                android:text="選我"
                 android:layout_width="164sp"
                 android:layout_height="wrap_content"
                 android:id="@+id/button5"
@@ -69,7 +69,7 @@
                 style="@android:style/Widget.DeviceDefault.Button.Inset"/>
 
             <Button
-                android:text="我不是 隔壁才是"
+                android:text="選我"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/button6"
@@ -77,7 +77,7 @@
                 style="@android:style/Widget.DeviceDefault.Button.Inset"/>
 
             <Button
-                android:text="不知道  問樓下"
+                android:text="選我"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/button7"
@@ -85,7 +85,7 @@
                 style="@android:style/Widget.DeviceDefault.Button.Inset"/>
 
             <Button
-                android:text="不要問我"
+                android:text="選我"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/button8"

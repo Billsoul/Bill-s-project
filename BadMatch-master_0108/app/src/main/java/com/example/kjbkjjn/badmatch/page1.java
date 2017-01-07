@@ -28,16 +28,8 @@ public class page1 extends AppCompatActivity {
         howtoplay=(Button)findViewById(R.id.HowToPlayButton);
         playerNum=(TextView)findViewById(R.id.playernum);
 
-        if(num == 8)
-            plusbtn.setBackgroundResource(R.drawable.plus2);
-        else if(num == 2)
-            minusbtn.setBackgroundResource(R.drawable.minus2);
-        else
-        {
-            minusbtn.setBackgroundResource(R.drawable.minus);
-            plusbtn.setBackgroundResource(R.drawable.plus);
-        }
 
+        minusbtn.setBackgroundResource(R.drawable.minus2); //初始值在2，所以APP一開始我先把減號變色了
 
 
         plusbtn.setOnClickListener(new View.OnClickListener() {
